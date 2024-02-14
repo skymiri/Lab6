@@ -1,5 +1,5 @@
 
-const folderName = "Filtered"
+
 const unzipper = require("unzipper"),
   fs = require("fs"),
   PNG = require("pngjs").PNG,
